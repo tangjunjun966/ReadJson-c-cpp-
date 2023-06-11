@@ -1,0 +1,15 @@
+{
+"server_ip":"192.168.100.104",
+"server_port":"6666", 
+
+"rtsp_id":"0",
+"rtsp_link":"rtsp://192.168.100.101:554",
+"rtsp_user":"admin",
+"rtsp_password":"ubuntu123456",
+"rtsp_encodeType":"7",
+"rtsp_buffersize":"8294400"
+	
+}
+
+
+

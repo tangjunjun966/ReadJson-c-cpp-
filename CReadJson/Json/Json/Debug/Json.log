@@ -1,0 +1,17 @@
+﻿  cJSON.c
+F:\CppCode\ReadJson\CReadJson\Json\Json\cJSON.c(156,12): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+F:\CppCode\ReadJson\CReadJson\Json\Json\cJSON.c(162,12): error C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+F:\CppCode\ReadJson\CReadJson\Json\Json\cJSON.c(170,62): error C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+F:\CppCode\ReadJson\CReadJson\Json\Json\cJSON.c(171,52): error C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+F:\CppCode\ReadJson\CReadJson\Json\Json\cJSON.c(172,20): error C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+F:\CppCode\ReadJson\CReadJson\Json\Json\cJSON.c(265,3): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+F:\CppCode\ReadJson\CReadJson\Json\Json\cJSON.c(276,3): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+F:\CppCode\ReadJson\CReadJson\Json\Json\cJSON.c(302,13): error C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+F:\CppCode\ReadJson\CReadJson\Json\Json\cJSON.c(381,50): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+F:\CppCode\ReadJson\CReadJson\Json\Json\cJSON.c(382,51): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+F:\CppCode\ReadJson\CReadJson\Json\Json\cJSON.c(383,50): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+F:\CppCode\ReadJson\CReadJson\Json\Json\cJSON.c(450,12): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+F:\CppCode\ReadJson\CReadJson\Json\Json\cJSON.c(648,4): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  test.c
+F:\CppCode\ReadJson\CReadJson\Json\Json\test.c(48,6): error C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  正在生成代码...

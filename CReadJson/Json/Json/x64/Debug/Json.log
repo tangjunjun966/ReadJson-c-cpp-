@@ -1,0 +1,4 @@
+﻿  ReadJson.c
+C:\Users\Administrator\Desktop\ReadJson\CReadJson\Json\Json\ReadJson.c(31,8): warning C4101: “out”: 未引用的局部变量
+C:\Users\Administrator\Desktop\ReadJson\CReadJson\Json\Json\ReadJson.c(50,8): warning C4101: “variate”: 未引用的局部变量
+  Json.vcxproj -> C:\Users\Administrator\Desktop\ReadJson\CReadJson\Json\x64\Debug\Json.exe

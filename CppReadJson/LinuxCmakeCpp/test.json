@@ -1,0 +1,12 @@
+{
+   "age" : 21,
+   "name" : "shuiyixin",
+   "sex" : "man",
+   "friends" : {
+      "friend_age" : 21,
+      "friend_name" : "ZhaoWuxian",
+      "friend_sex" : "man"
+   },
+   "hobby" : [ "sing", "run", "Tai Chi" ]
+   
+}
