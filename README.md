@@ -1,5 +1,5 @@
-# ReadJson-c-cpp-
-使用C与CPP语言处理json文件方法与完整demo
+# ReadJson-c-cpp
+使用C与CPP语言处理json文件方法的demo
 
 基于C++语言json文件的读取，代码已在windows10平台visual studio2019运行，也在linux平台编译运行。
 
